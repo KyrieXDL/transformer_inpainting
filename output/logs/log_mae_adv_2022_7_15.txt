@@ -1,0 +1,10 @@
+2022-07-15 06:51:31,629 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 06:51:31,629 - utils - INFO - msg: 
+2022-07-15 06:55:21,706 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 06:55:21,706 - utils - INFO - msg: 
+2022-07-15 06:57:10,686 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 06:57:10,686 - utils - INFO - msg: 
+2022-07-15 06:58:33,438 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 06:58:33,438 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 06:59:47,054 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 06:59:47,054 - utils - INFO - msg: <All keys matched successfully>

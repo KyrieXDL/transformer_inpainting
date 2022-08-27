@@ -1,0 +1,11 @@
+2022-07-11 08:40:49,787 - utils - INFO - epoch: 0, step: 0, eta: 00:52:28, gen loss: 18.04030990600586, dis loss
+2022-07-11 08:45:41,326 - utils - INFO - epoch: 0, step: 0, eta: 00:50:39, gen loss: 17.61157989501953, dis loss: 1.0906116962432861
+2022-07-11 08:51:33,382 - utils - INFO - epoch: 0, step: 200, eta: 00:31:31, gen loss: -55000.40234375, dis loss: 27492.935546875
+2022-07-11 08:57:26,078 - utils - INFO - epoch: 0, step: 400, eta: 00:25:32, gen loss: -190818.734375, dis loss: 94929.578125
+2022-07-11 09:03:15,639 - utils - INFO - epoch: 0, step: 600, eta: 00:19:34, gen loss: -431401.84375, dis loss: 216923.265625
+2022-07-11 09:07:45,417 - utils - INFO - epoch: 0, step: 0, eta: 00:55:59, gen loss: 17.61157989501953, adv_loss: -0.4287305474281311, dis loss: 1.0906116962432861
+2022-07-11 09:09:11,977 - utils - INFO - epoch: 0, step: 50, eta: 00:36:11, gen loss: -5320.03076171875, adv_loss: -5352.892578125, dis loss: 2628.854248046875
+2022-07-11 09:10:37,044 - utils - INFO - epoch: 0, step: 100, eta: 00:33:53, gen loss: -16099.9013671875, adv_loss: -16179.31640625, dis loss: 7949.966796875
+2022-07-11 09:12:02,484 - utils - INFO - epoch: 0, step: 150, eta: 00:32:14, gen loss: -32739.689453125, adv_loss: -32895.5390625, dis loss: 16329.2744140625
+2022-07-11 09:13:27,118 - utils - INFO - epoch: 0, step: 200, eta: 00:30:37, gen loss: -55001.046875, adv_loss: -55265.04296875, dis loss: 27493.39453125
+2022-07-11 09:14:52,355 - utils - INFO - epoch: 0, step: 250, eta: 00:29:07, gen loss: -82445.5, adv_loss: -82846.015625, dis loss: 41290.90625

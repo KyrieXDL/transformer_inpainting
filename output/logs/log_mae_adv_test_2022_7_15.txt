@@ -1,0 +1,36 @@
+2022-07-15 07:01:33,955 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 07:01:33,956 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 07:02:11,341 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 07:02:11,341 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 07:19:54,609 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 07:19:54,610 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 07:21:27,969 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 07:21:27,970 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 07:22:44,130 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 07:22:44,131 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 07:26:22,202 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 07:26:22,202 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 07:30:37,982 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 07:30:37,983 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 09:28:36,714 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 09:28:36,715 - utils - INFO - msg: <All keys matched successfully>
+2022-07-15 10:05:13,429 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:05:13,430 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:06:12,080 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:06:12,081 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:06:51,154 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:06:51,154 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:08:01,071 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:08:01,072 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:09:09,608 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:09:09,609 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:10:30,489 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:10:30,489 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:14:33,813 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:14:33,813 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:21:03,237 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:21:03,238 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:22:36,323 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:22:36,324 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
+2022-07-15 10:23:18,891 - utils - INFO - load ckpt from ./saved_models/mae_adv/pytorch_model.bin
+2022-07-15 10:23:18,891 - utils - INFO - msg: _IncompatibleKeys(missing_keys=['mask_enc_token'], unexpected_keys=[])
